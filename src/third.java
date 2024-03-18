@@ -1,2 +1,2 @@
-public class third {
+public class third { ggg
 }
